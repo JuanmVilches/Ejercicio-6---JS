@@ -1,0 +1,12 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    background-color: tomato;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    border: solid 1px black;
+    padding: 8px;
+}
